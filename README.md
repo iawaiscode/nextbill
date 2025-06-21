@@ -6,7 +6,7 @@ A modern, full stack invoicing application built with **Next.js 15** and **React
 
 - **Framework**: [Next.js 15](https://nextjs.org/) with new **React 19** features like **Server Actions/Functions** and **Optimistic UI**
 - **Authentication**: [Clerk](https://spacejelly.dev/clerk)
-- **Database**: [Xata](https://spacejelly.dev/xata)
+- **Database**: [Supabase](https://supabase.com)
 - **ORM**: [Drizzle ORM](https://orm.drizzle.team/)
 - **Emails**: [Resend](https://resend.com/) for transactional email support
 - **Payments**: [Stripe](https://stripe.com/) for secure invoicing and checkout flows
